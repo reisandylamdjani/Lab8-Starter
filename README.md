@@ -1,1 +1,3 @@
 # Lab8-Starter
+
+Both graceful degradation and service workers offer solutions for users with limited capabilities or resources. For instance, graceful degradation ensures that a lighter version of a web app is available when user resources are suboptimal. Similarly, service workers enable the web app to function in some capacity even when offline. Both approaches support users in situations where users doesn't have any resources to access the app.
